@@ -29,6 +29,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Use Rails Html Sanitizer for HTML sanitization
 gem 'rails-html-sanitizer', '~> 1.0'
 
+gem 'delayed_job_active_record'
+
 # Use Unicorn as the app server
 # gem 'unicorn'
 
